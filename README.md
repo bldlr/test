@@ -30,5 +30,5 @@ _Entre 1 underscore, titre en italique_
 
 # Base de données
 
-('assets/readme/mcd.png')
+![mcd]('assets/readme/mcd.png')
 
