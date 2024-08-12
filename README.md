@@ -22,6 +22,7 @@ _Entre 1 underscore, titre en italique_
   - [test](#test)
     - [testttt](#testttt)
 - [Base de données](#base-de-données)
+- [Push sur Git](#push-sur-git)
 
 
 ## test
@@ -31,4 +32,24 @@ _Entre 1 underscore, titre en italique_
 # Base de données
 
 ![mcd](assets/readme/mcd.png)
+
+
+# Push sur Git
+
+```
+    git status
+```
+
+
+```
+    git add .
+```
+
+```
+    git commit -m "nom du commit"
+```
+
+```
+    git push 
+```
 
